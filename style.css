@@ -1,0 +1,110 @@
+h1 {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: rgb(6, 6, 7);
+    border-radius: 80px;
+    font-size: 60px;
+    
+}
+
+.img-container {
+    text-align: center;
+  }
+
+.automatic-machine {
+    margin: auto;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: static;
+    margin: auto;
+}
+
+
+.username {
+    font-weight: 300px;
+    font-size: large;
+    padding: 10px;
+    border-radius: 10px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    position: relative;
+    display: flex;
+}
+
+#enter {
+    padding: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    margin-top: 40px;
+    position: static;
+}
+
+#write-password {
+    align-items: center;
+    position: static;
+    justify-content: center;
+    text-align: center;
+    padding: 15px;
+    display: flex;
+    margin: auto;
+}
+
+#password {
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    position: static;
+}
+
+
+.welcome {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 15px;
+    display: flex;
+    margin: auto;
+    position: static;
+}
+
+.submitAmmount {
+    font-family: 'Poppins', sans-serif;
+    padding: 3px;
+}
+
+#addingAmount {
+    font-family: 'Poppins', sans-serif;
+    padding: 3px;
+}
+
+#addingAmountb {
+    font-family: 'Poppins', sans-serif;
+    padding: 3px;
+}
+
+.check-balance {
+    font-family: 'Poppins', sans-serif;
+    padding: 3px;
+}
+
+.close-button {
+    font-family: 'Poppins', sans-serif;
+    padding: 3px;
+}
